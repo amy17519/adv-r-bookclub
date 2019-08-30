@@ -4,7 +4,7 @@ Materials for 2019 Advanced R Bookclub with R-Ladies Los Angeles
 
 • Foundations - August 3
 
-• Functional Programming - August 10[Slides](https://github.com/amy17519/adv-r-bookclub/blob/master/Advanced%20R%20-%20Functional%20Programming.pdf)
+• Functional Programming - August 10([Slides](https://github.com/amy17519/adv-r-bookclub/blob/master/Advanced%20R%20-%20Functional%20Programming.pdf))
 
 • OO Programming - split over August 24([Slides](https://www.dontyouremember.com/talks/advanced-r-oo-1.html#/)) and September 7
 
