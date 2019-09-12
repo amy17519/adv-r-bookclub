@@ -13,3 +13,4 @@ Materials for 2019 Advanced R Bookclub with R-Ladies Los Angeles
 • Techniques - split over October 19 and November 2
 
 
+One of session leaders, Daniel Jacobs(https://github.com/djacobs7), made a R package, [remembr](https://github.com/djacobs7/remembr), that helps you rememeber things you just learned in Advanced R! Check out his blogpost https://www.dontyouremember.com/posts/using-card-packs.html
