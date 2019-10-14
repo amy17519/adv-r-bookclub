@@ -8,7 +8,7 @@ Materials for 2019 Advanced R Bookclub with R-Ladies Los Angeles
 
 • OO Programming - split over August 24([Slides](https://www.dontyouremember.com/talks/advanced-r-oo-1.html#/)) and September 7([Slides](https://www.dontyouremember.com/talks/advanced-r-oo2.html))
 
-• Metaprogramming - split over September 21 and October 5
+• Metaprogramming - split over September 21([Slides](https://adv-r-bookclub-meta1.netlify.com/#1)) and October 5([Slides](https://adv-r-bookclub-meta2.netlify.com/#1))
 
 • Techniques - split over October 19 and November 2
 
